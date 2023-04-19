@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+main {
+  display: flex;
+  margin-top: 1%;
+  flex-wrap: wrap;
+}
+header {
+  display: flex;
+  background-color: aqua;
+}
+header h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-family: fantasy;
+  font-size: 35px;
+  padding-right: 45%;
+}
+
+header a {
+  padding: 40px;
+  font-size: 20px;
+}
