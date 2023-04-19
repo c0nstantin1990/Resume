@@ -27,3 +27,13 @@ nav a {
   padding: 10px 15px;
   font-size: 20px;
 }
+section {
+  display: flex;
+  padding-left: 30px;
+  padding-right: 10px;
+  justify-content: center;
+  gap: 20px;
+}
+p {
+  width: 50%;
+}
