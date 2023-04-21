@@ -8,15 +8,23 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 2%;
   background-color: aqua;
   justify-content: space-between;
 }
 
 h1 {
   font-family: fantasy;
-  font-size: 200%;
+  font-size: 300%;
+}
+h1 a {
+  text-decoration: none;
+}
+ul li {
+  text-decoration: underline;
 }
 h2 {
+  font-size: 150%;
   margin: 2% 0;
 }
 nav ul {
@@ -30,6 +38,11 @@ nav a {
   color: black;
   font-weight: bold;
   text-decoration: none;
+  font-size: 120%;
+  padding: 5px;
+}
+nav a:hover {
+  color: azure;
 }
 section {
   display: flex;
@@ -46,4 +59,10 @@ footer {
   display: flex;
   justify-content: center;
   padding: 2%;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    flex-direction: column;
+  }
 }
