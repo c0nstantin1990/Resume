@@ -82,10 +82,16 @@ p {
 .contact a {
   font-weight: bold;
 }
+.bottom-line {
+  border-bottom: 2px solid #c0a28e;
+}
+
 footer {
+  background-color: #ccbeb4;
   display: flex;
   justify-content: center;
-  padding-top: 3%;
+  padding-top: 1.5%;
+  padding-bottom: 2%;
 }
 
 @media screen and (max-width: 768px) {
