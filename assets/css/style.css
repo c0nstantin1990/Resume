@@ -52,17 +52,26 @@ nav a {
 nav a:hover {
   color: azure;
 }
-figure {
+main {
+  position: relative;
+  text-align: center;
   margin-bottom: 40px;
 }
-figure img {
+main img {
   width: 100%;
   height: 170px;
 }
-main {
-  background-color: rgb(226, 223, 223);
+.image-title {
+  position: absolute;
+  bottom: 65px;
+  right: 16px;
+}
+figcaption {
+  text-align: right;
+  padding-bottom: 80px;
 }
 section {
+  background-color: rgb(226, 223, 223);
   display: flex;
   justify-content: center;
   gap: 80px;
