@@ -62,13 +62,13 @@ main img {
   height: 170px;
 }
 .image-title {
+  color: rgb(70, 117, 117);
+  font-size: 130%;
+  font-weight: bolder;
+  margin-right: 70px;
   position: absolute;
   bottom: 65px;
   right: 16px;
-}
-figcaption {
-  text-align: right;
-  padding-bottom: 80px;
 }
 section {
   background-color: rgb(226, 223, 223);
@@ -101,6 +101,9 @@ footer {
   justify-content: center;
   padding-top: 1.5%;
   padding-bottom: 2%;
+}
+h3 {
+  color: rgb(251, 233, 205);
 }
 
 @media screen and (max-width: 768px) {
