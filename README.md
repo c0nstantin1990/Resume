@@ -1,22 +1,23 @@
 # Resume
+
 ## Description
 
-- Project was built to add accesability to page
+- Project was built to create a portfolio page
 - Website optimize for search engines
-- Made website more interective
-- Refactored the code and made it look more readable
+- Website has media queries
+- Used veriables in CSS
 
 ## Usage
 
-You can interact with Navbar
+Interaction with contact information
+Interaction with Navbar
 
-![Top part of the page](/assets/screenshots/top-page.png)
-![Bottom part of the page](/assets/screenshots/bottom-page.png)
+![Web page](/assets/screenshots/top-page.png)
+![Interaction](/assets/screenshots/bottom-page.png)
 
-GitHub Repo: https://github.com/c0nstantin1990/Horiseon
-Website Link: https://c0nstantin1990.github.io/Horiseon/
+GitHub Repo: https://github.com/c0nstantin1990/Resume
+Website Link: https://c0nstantin1990.github.io/Resume/
 
 ## Credits
 
-Used existing code for html & css file given for asigment
-Used existing pictures from assigment
+Used pictures from google.com

@@ -1,3 +1,6 @@
+:root {
+  --bold-font: bold;
+}
 body {
   display: flex;
   flex-direction: column;
@@ -31,7 +34,7 @@ h2 {
   margin: 2% 0;
 }
 h2::first-letter {
-  font-weight: bold;
+  font-weight: var(--bold-font);
   font-size: 40px;
 }
 nav ul {
@@ -43,7 +46,7 @@ nav ul {
 nav a {
   background-color: unset;
   color: rgb(72, 63, 63);
-  font-weight: bold;
+  font-weight: var(--bold-font);
   text-decoration: none;
   font-size: 120%;
   padding: 5px;
@@ -63,7 +66,7 @@ main img {
 .image-title {
   color: rgb(70, 117, 117);
   font-size: 130%;
-  font-weight: bolder;
+  font-weight: var(--bold-font);
   margin-right: 70px;
   position: absolute;
   bottom: 65px;
@@ -88,7 +91,7 @@ p {
   justify-content: space-between;
 }
 .contact a {
-  font-weight: bold;
+  font-weight: var(--bold-font);
 }
 .bottom-line {
   border-bottom: 2px solid #c0a28e;
