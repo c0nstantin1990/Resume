@@ -94,6 +94,12 @@ p {
 .bottom-line {
   border-bottom: 2px solid #c0a28e;
 }
+span {
+  display: none;
+}
+.contact a:hover span {
+  display: block;
+}
 
 footer {
   background-color: #ccbeb4;
@@ -104,6 +110,10 @@ footer {
 }
 h3 {
   color: rgb(251, 233, 205);
+}
+.contact img {
+  width: 20px;
+  height: 20px;
 }
 
 @media screen and (max-width: 768px) {
