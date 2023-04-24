@@ -110,6 +110,36 @@ span {
 .contact a:hover span {
   display: block;
 }
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 1px;
+  gap: 1px;
+  border: 2px solid;
+}
+.block1 {
+  display: flex;
+  flex-direction: row;
+  gap: 1px;
+}
+#box1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid;
+}
+#box2 {
+  border: 2px solid;
+}
+#box3 {
+  border: 2px solid;
+}
+#box4 {
+  border: 2px solid;
+}
+#box5 {
+  border: 2px solid;
+}
 
 footer {
   display: flex;
