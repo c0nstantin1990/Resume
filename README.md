@@ -11,6 +11,7 @@
 
 Interaction with contact information
 Interaction with Navbar
+Link to App
 
 ![Web page](/assets/screenshots/top-page.png)
 ![Interaction](/assets/screenshots/bottom-page.png)
