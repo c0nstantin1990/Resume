@@ -21,4 +21,7 @@ Website Link: https://c0nstantin1990.github.io/Resume/
 ## Credits
 
 Used pictures from google.com
+Used text from google
+
 https://www.geeksforgeeks.org/how-to-create-three-boxes-in-the-same-div-using-html-and-css/
+W3Schools
